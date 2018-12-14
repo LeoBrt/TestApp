@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffe Time</string>
+    <string name="splashScreenText">COFFEE TIME</string>
+    <string name="coffeecup">coffeeCup</string>
+</resources>
